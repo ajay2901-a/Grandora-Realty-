@@ -1,0 +1,16 @@
+{
+  "name": "grandora-realty",
+  "version": "1.0.0",
+  "description": "Grandora Realty website with Express backend",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
