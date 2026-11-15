@@ -1,8 +1,0 @@
-[
-  {"id":1,"title":"4 BHK Luxury Villa","type":"Residential","location":"ECR, Chennai","price":"₹3.8 Cr","details":"4,200 sq ft · Pool · Sea-side"},
-  {"id":2,"title":"3 BHK Sky Apartment","type":"Residential","location":"OMR, Chennai","price":"₹1.45 Cr","details":"1,850 sq ft · Gated community"},
-  {"id":3,"title":"Grade-A Office Floor","type":"Commercial","location":"Guindy, Chennai","price":"₹6.2 Cr","details":"9,000 sq ft · Fully fitted"},
-  {"id":4,"title":"Prime Retail Space","type":"Commercial","location":"T. Nagar, Chennai","price":"₹2.9 Cr","details":"1,600 sq ft · Main road"},
-  {"id":5,"title":"DTCP Approved Plot","type":"Land & Plots","location":"Sriperumbudur","price":"₹48 L","details":"2,400 sq ft · East facing"},
-  {"id":6,"title":"2 BHK Apartment for Lease","type":"Rental & Lease","location":"Adyar, Chennai","price":"₹42,000 / month","details":"1,100 sq ft · Furnished"}
-]
